@@ -1,0 +1,7 @@
+testNumber: 24
+requirement: Compare different strings. Method checks for similarities even out of order by sorting the tokens alphabetically and then comparing the strings.
+component: fuzz
+method: token_sort_ratio
+inputs: "Alphabet","Corny"
+driver: fuzzTokenSortRatioDriver
+expectedOutput: 0

@@ -1,0 +1,7 @@
+testNumber: 7
+requirement: Comparing special character : to a string. Method uses difflib's SequenceMatcher() to compare if the two strings are exactly alike.
+component: fuzz
+method: ratio
+inputs: ":","String"
+driver: fuzzRatioDriver
+expectedOutput: 0

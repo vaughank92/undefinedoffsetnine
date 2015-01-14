@@ -1,0 +1,7 @@
+testNumber: 13
+requirement: Compare identical strings. Comparison of substring, splits into tokens and compares each substring specifically for comparing short strings to long strings to find substring similarities.
+component: fuzz
+method: token_set_ratio
+inputs: "completely alike","completely alike"
+driver: fuzzTokenSetRatioDriver
+expectedOutput: 100

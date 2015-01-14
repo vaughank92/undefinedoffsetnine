@@ -1,0 +1,7 @@
+testNumber: 11
+requirement: Compare identical strings. Method uses difflib's SequenceMatcher() to compare if the two strings are exactly alike.
+component: fuzz
+method: ratio
+inputs: "completely alike","completely alike"
+driver: fuzzRatioDriver
+expectedOutput: 100

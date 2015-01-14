@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/CSCI3622014/!svn/ver/426/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/testCasesExecutables
+END
+FuzzyWuzzyTestDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/CSCI3622014/!svn/ver/242/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/testCasesExecutables/FuzzyWuzzyTestDriver.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/CSCI3622014/!svn/ver/426/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/testCasesExecutables/__init__.py
+END
+fuzzTokenSortRatioDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/CSCI3622014/!svn/ver/358/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/testCasesExecutables/fuzzTokenSortRatioDriver.py
+END
+fuzzPartialRatioDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/CSCI3622014/!svn/ver/400/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/testCasesExecutables/fuzzPartialRatioDriver.py
+END
+fuzzTokenSetRatioDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/CSCI3622014/!svn/ver/358/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/testCasesExecutables/fuzzTokenSetRatioDriver.py
+END
+fuzzRatioDriver.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/CSCI3622014/!svn/ver/400/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/testCasesExecutables/fuzzRatioDriver.py
+END

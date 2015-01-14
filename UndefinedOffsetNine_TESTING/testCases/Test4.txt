@@ -1,0 +1,7 @@
+testNumber: 4
+requirement: Compare empty to nonempty string. Comparison of substring, splits into tokens and compares each substring specifically for comparing short strings to long strings to find substring similarities.
+component: fuzz
+method: token_set_ratio
+inputs: "Fun Stuff",""
+driver: fuzzTokenSetRatioDriver
+expectedOutput: 0

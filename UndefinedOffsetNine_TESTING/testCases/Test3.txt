@@ -1,0 +1,7 @@
+testNumber: 3
+requirement: Compare empty to nonempty string. Method checks for similarities even out of order by sorting the tokens alphabetically and then comparing the strings.
+component: fuzz
+method: token_set_ratio
+inputs: "","testing empty string"
+driver: fuzzTokenSetRatioDriver
+expectedOutput: 0

@@ -1,0 +1,7 @@
+testNumber: 19
+requirement: Compare two strings with identical substrings. Method checks for similarities even out of order by sorting the tokens alphabetically and then comparing the strings.
+component: fuzz
+method: token_set_ratio
+inputs: "Hello","Hello World"
+driver: fuzzTokenSetRatioDriver
+expectedOutput: 100

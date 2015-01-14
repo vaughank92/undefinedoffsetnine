@@ -1,0 +1,7 @@
+testNumber: 25
+requirement: Compare strings with identical substrings Method uses difflib's SequenceMatcher() to compare if the two strings are exactly alike.
+component: ratio
+method: ratio
+inputs: "Courtney","Combasil"
+driver: fuzzRatioDriver
+expectedOutput: 25

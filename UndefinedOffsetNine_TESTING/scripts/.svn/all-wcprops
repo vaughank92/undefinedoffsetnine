@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/CSCI3622014/!svn/ver/612/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/scripts
+END
+fuzzyScript.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI3622014/!svn/ver/248/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/scripts/fuzzyScript.sh
+END
+runAllTests.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/CSCI3622014/!svn/ver/612/UndefinedOffsetNine/UndefinedOffsetNine_TESTING/scripts/runAllTests.py
+END

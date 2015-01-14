@@ -1,0 +1,7 @@
+testNumber: 22
+requirement: Compare different strings. Method compares the shorter string to blocks (substrings) of the longer string using difflib's SeuqnceMatcher() and get_matching_blocks().
+component: fuzz
+method: partial_ratio
+inputs: "Alphabet","Corny"
+driver: fuzzPartialRatioDriver
+expectedOutput: 0
